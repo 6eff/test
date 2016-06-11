@@ -1,2 +1,2 @@
 # test 
-just learning styff :)
+just learning stuff :)
